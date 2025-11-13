@@ -14,7 +14,7 @@
 - [11. License & Disclaimer](#11-license--disclaimer)
 
 # 1. Overview
-LEconSpy is a zero-cost economic intelligence system that:
+LEconSpy is a zero-cost economic intelligence system that based on LangGraph ecosystem:
 
 - Fetches the latest economic indicators from free, trusted sources (World Bank, UNDP, World Happiness Report, Wikipedia, WorldPopulationReview).
 - Validates metrics across multiple sources to maintain integrity.
@@ -157,4 +157,5 @@ Use the following process to push changes to GitHub:
 
 # 11. License & Disclaimer
 This project is intended for educational and research purposes. Respect the terms of service of all upstream data providers. Results should be interpreted with an understanding of data quality, update cadence, and geopolitical context. The system is provided as-is without warranty.
+
 
